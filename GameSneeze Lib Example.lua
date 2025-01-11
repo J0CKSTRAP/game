@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/matas3535/gamesneeze/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/game/refs/heads/main/gamesneezemod.luau"))()
 
 local Window = Library:New({
     Name = "Title", -- name, Name, title, Title
